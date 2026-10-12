@@ -1,7 +1,7 @@
 # Protocol Pin
 
 Repository: vsenthil7/enterprise-ai-boundary-research (public)
-Protocol for AI sessions: **Git Turn Protocol v1.0** (2026-10-12), the owner's single protocol for all his repositories. Its full text is kept privately; AI sessions working for the owner are given it at the start of a page.
+Protocol for AI sessions: **Git Turn Protocol v1.1** (2026-10-12; v1.0 plus a research rule), the owner's single protocol for all his repositories. Its full text is kept privately; AI sessions working for the owner are given it at the start of a page.
 Active from: 2026-10-12 10:47 (CLAUDE-T007).
 
 ## What v1.0 adds here
@@ -21,3 +21,4 @@ Active from: 2026-10-12 10:47 (CLAUDE-T007).
 
 ## Dated decisions
 - 2026-10-12 10:47 (CLAUDE-T007, owner-stated "go ahead"): switch to Git Turn Protocol v1.0 as a pointer only; previous protocol file kept unchanged.
+- 2026-10-12 11:48 (CLAUDE-T008, owner-stated): move to Git Turn Protocol v1.1 as a pointer only. v1.1 adds a research rule: think the question through, search the web, open the pages, name the sources, and add a `Research:` line to the Git evidence.
